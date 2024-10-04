@@ -1,12 +1,12 @@
 package materials.src.main.java.org.example.course.Model12.application;
 
-import materials.src.main.java.org.example.course.Model12.entities.Order;
+import materials.src.main.java.org.example.course.Model12.entities.projectOne.Order;
 import materials.src.main.java.org.example.course.Model12.entities.enums.OrderStatus;
 
 import java.util.Date;
 
 //EnumTest
-public class Program {
+public class ProgramOne {
 
     public static void main(String[] args){
         Order order = new Order(1080, new Date(), OrderStatus.PENDING_PAYMENT);

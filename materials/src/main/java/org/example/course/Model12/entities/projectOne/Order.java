@@ -1,4 +1,4 @@
-package materials.src.main.java.org.example.course.Model12.entities;
+package materials.src.main.java.org.example.course.Model12.entities.projectOne;
 
 import materials.src.main.java.org.example.course.Model12.entities.enums.OrderStatus;
 

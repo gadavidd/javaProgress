@@ -2,7 +2,6 @@ package materials.src.main.java.org.example.books.realdevsoftware.chapter02.appl
 
 import materials.src.main.java.org.example.books.realdevsoftware.chapter02.entities.BankStatementCSVParser;
 import materials.src.main.java.org.example.books.realdevsoftware.chapter02.entities.BankStatementParser;
-import materials.src.main.java.org.example.books.realdevsoftware.chapter02.entities.BankTransaction;
 
 import java.io.IOException;
 
