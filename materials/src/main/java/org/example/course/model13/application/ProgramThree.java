@@ -1,7 +1,7 @@
-package materials.src.main.java.org.example.course.Model13.application;
+package materials.src.main.java.org.example.course.model13.application;
 
-import materials.src.main.java.org.example.course.Model13.entities.Account;
-import materials.src.main.java.org.example.course.Model13.entities.SavingsAccount;
+import materials.src.main.java.org.example.course.model13.entities.Account;
+import materials.src.main.java.org.example.course.model13.entities.SavingsAccount;
 
 public class ProgramThree {
     public static void main(String[] args){

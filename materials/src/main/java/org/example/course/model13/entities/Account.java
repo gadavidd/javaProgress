@@ -1,4 +1,4 @@
-package materials.src.main.java.org.example.course.Model13.entities;
+package materials.src.main.java.org.example.course.model13.entities;
 
 public class Account {
     private Integer number;

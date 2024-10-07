@@ -1,4 +1,4 @@
-package materials.src.main.java.org.example.course.Model12.entities.projectfinal;
+package materials.src.main.java.org.example.course.model12.entities.projectfinal;
 
 public class Product {
     private String name;

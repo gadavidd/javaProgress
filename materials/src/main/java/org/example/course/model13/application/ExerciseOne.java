@@ -1,7 +1,7 @@
-package materials.src.main.java.org.example.course.Model13.application;
+package materials.src.main.java.org.example.course.model13.application;
 
-import materials.src.main.java.org.example.course.Model13.entities.Employee;
-import materials.src.main.java.org.example.course.Model13.entities.OutsourcedEmployee;
+import materials.src.main.java.org.example.course.model13.entities.Employee;
+import materials.src.main.java.org.example.course.model13.entities.OutsourcedEmployee;
 
 import java.util.ArrayList;
 import java.util.List;

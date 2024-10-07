@@ -1,4 +1,4 @@
-package materials.src.main.java.org.example.course.Model6;
+package materials.src.main.java.org.example.course.model6;
 
 import java.util.Locale;
 import java.util.Scanner;

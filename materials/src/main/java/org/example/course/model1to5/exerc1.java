@@ -1,4 +1,4 @@
-package materials.src.main.java.org.example.course.Model1to5;//Else-if
+package materials.src.main.java.org.example.course.model1to5;//Else-if
 import java.util.Scanner;
 public class exerc1{
 

@@ -1,6 +1,6 @@
-package materials.src.main.java.org.example.course.Model13.entities;
+package materials.src.main.java.org.example.course.model13.entities.abstrac;
 
-public class SavingsAccountAbstract extends AccountAbstract{
+public class SavingsAccountAbstract extends AccountAbstract {
     private double interestRate;
 
     public SavingsAccountAbstract(){

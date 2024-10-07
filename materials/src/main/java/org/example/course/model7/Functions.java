@@ -1,4 +1,4 @@
-package materials.src.main.java.org.example.course.Model7;
+package materials.src.main.java.org.example.course.model7;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package materials.src.main.java.org.example.course.Model10.application;
+package materials.src.main.java.org.example.course.model10.application;
 
 import java.util.ArrayList;
 import java.util.List;

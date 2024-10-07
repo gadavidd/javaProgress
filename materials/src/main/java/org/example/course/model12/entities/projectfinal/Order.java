@@ -1,7 +1,6 @@
-package materials.src.main.java.org.example.course.Model12.entities.projectfinal;
+package materials.src.main.java.org.example.course.model12.entities.projectfinal;
 
-import materials.src.main.java.org.example.course.Model12.entities.enums.OrderStatus;
-import materials.src.main.java.org.example.course.Model12.entities.projectOne.HourContract;
+import materials.src.main.java.org.example.course.model12.entities.enums.OrderStatus;
 
 import java.util.ArrayList;
 import java.util.Calendar;

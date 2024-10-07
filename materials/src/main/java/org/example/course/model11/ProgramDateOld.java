@@ -1,7 +1,5 @@
-package materials.src.main.java.org.example.course.Model11;
+package materials.src.main.java.org.example.course.model11;
 
-import java.sql.Time;
-import java.sql.Timestamp;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.time.Instant;

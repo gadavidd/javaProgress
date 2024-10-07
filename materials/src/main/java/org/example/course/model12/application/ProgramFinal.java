@@ -1,14 +1,10 @@
-package materials.src.main.java.org.example.course.Model12.application;
+package materials.src.main.java.org.example.course.model12.application;
 
-import materials.src.main.java.org.example.course.Model12.entities.enums.OrderStatus;
-import materials.src.main.java.org.example.course.Model12.entities.enums.WorkerLevel;
-import materials.src.main.java.org.example.course.Model12.entities.projectOne.Department;
-import materials.src.main.java.org.example.course.Model12.entities.projectOne.HourContract;
-import materials.src.main.java.org.example.course.Model12.entities.projectOne.Worker;
-import materials.src.main.java.org.example.course.Model12.entities.projectfinal.Client;
-import materials.src.main.java.org.example.course.Model12.entities.projectfinal.Order;
-import materials.src.main.java.org.example.course.Model12.entities.projectfinal.OrderItem;
-import materials.src.main.java.org.example.course.Model12.entities.projectfinal.Product;
+import materials.src.main.java.org.example.course.model12.entities.enums.OrderStatus;
+import materials.src.main.java.org.example.course.model12.entities.projectfinal.Client;
+import materials.src.main.java.org.example.course.model12.entities.projectfinal.Order;
+import materials.src.main.java.org.example.course.model12.entities.projectfinal.OrderItem;
+import materials.src.main.java.org.example.course.model12.entities.projectfinal.Product;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

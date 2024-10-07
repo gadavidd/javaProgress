@@ -1,4 +1,4 @@
-package materials.src.main.java.org.example.course.Model12.entities.projectOne;
+package materials.src.main.java.org.example.course.model12.entities.projectOne;
 
 public class Department {
     private String name;

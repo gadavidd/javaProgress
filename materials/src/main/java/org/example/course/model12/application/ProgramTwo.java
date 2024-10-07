@@ -1,9 +1,9 @@
-package materials.src.main.java.org.example.course.Model12.application;
+package materials.src.main.java.org.example.course.model12.application;
 
-import materials.src.main.java.org.example.course.Model12.entities.projectOne.Department;
-import materials.src.main.java.org.example.course.Model12.entities.projectOne.HourContract;
-import materials.src.main.java.org.example.course.Model12.entities.projectOne.Worker;
-import materials.src.main.java.org.example.course.Model12.entities.enums.WorkerLevel;
+import materials.src.main.java.org.example.course.model12.entities.projectOne.Department;
+import materials.src.main.java.org.example.course.model12.entities.projectOne.HourContract;
+import materials.src.main.java.org.example.course.model12.entities.projectOne.Worker;
+import materials.src.main.java.org.example.course.model12.entities.enums.WorkerLevel;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

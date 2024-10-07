@@ -1,4 +1,4 @@
-package materials.src.main.java.org.example.course.Model11;
+package materials.src.main.java.org.example.course.model11;
 
 import java.time.Instant;
 import java.time.LocalDate;

@@ -1,6 +1,6 @@
-package materials.src.main.java.org.example.course.Model8.application;
+package materials.src.main.java.org.example.course.model8.application;
 
-import materials.src.main.java.org.example.course.Model8.entities.Employee;
+import materials.src.main.java.org.example.course.model8.entities.Employee;
 
 import java.util.Locale;
 import java.util.Scanner;

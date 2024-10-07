@@ -1,6 +1,6 @@
-package materials.src.main.java.org.example.course.Model13.entities;
+package materials.src.main.java.org.example.course.model13.entities.abstrac;
 
-public class BusinessAccountAbstract extends AccountAbstract{
+public class BusinessAccountAbstract extends AccountAbstract {
     private Double loanLimit;
     public BusinessAccountAbstract(Integer number, String holder, Double balance, Double loanLimit) {
         super(number, holder, balance);

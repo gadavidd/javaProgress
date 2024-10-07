@@ -1,4 +1,4 @@
-package materials.src.main.java.org.example.course.Model12.entities.enums;
+package materials.src.main.java.org.example.course.model12.entities.enums;
 
 public enum WorkerLevel {
     JUNIOR,

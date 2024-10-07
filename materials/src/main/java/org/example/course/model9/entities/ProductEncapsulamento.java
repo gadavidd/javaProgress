@@ -1,4 +1,4 @@
-package materials.src.main.java.org.example.course.Model9.entities;
+package materials.src.main.java.org.example.course.model9.entities;
 
 public class ProductEncapsulamento {
 	String name;

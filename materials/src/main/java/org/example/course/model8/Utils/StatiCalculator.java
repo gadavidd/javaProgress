@@ -1,4 +1,4 @@
-package materials.src.main.java.org.example.course.Model8.Utils;
+package materials.src.main.java.org.example.course.model8.Utils;
 
 public class StatiCalculator {
 	public static final double PI = 3.14159;

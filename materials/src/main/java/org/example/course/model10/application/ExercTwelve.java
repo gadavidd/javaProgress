@@ -1,6 +1,6 @@
-package materials.src.main.java.org.example.course.Model10.application;
+package materials.src.main.java.org.example.course.model10.application;
 
-import materials.src.main.java.org.example.course.Model10.entities.Employee;
+import materials.src.main.java.org.example.course.model10.entities.Employee;
 
 import java.util.ArrayList;
 import java.util.List;

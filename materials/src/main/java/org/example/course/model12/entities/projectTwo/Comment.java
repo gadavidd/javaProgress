@@ -1,4 +1,4 @@
-package materials.src.main.java.org.example.course.Model12.entities.projectTwo;
+package materials.src.main.java.org.example.course.model12.entities.projectTwo;
 
 public class Comment {
     private String text;

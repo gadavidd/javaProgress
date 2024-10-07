@@ -1,6 +1,6 @@
-package materials.src.main.java.org.example.course.Model12.entities.projectOne;
+package materials.src.main.java.org.example.course.model12.entities.projectOne;
 
-import materials.src.main.java.org.example.course.Model12.entities.enums.OrderStatus;
+import materials.src.main.java.org.example.course.model12.entities.enums.OrderStatus;
 
 import java.util.Date;
 

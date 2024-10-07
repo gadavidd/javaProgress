@@ -1,10 +1,9 @@
-package materials.src.main.java.org.example.course.Model11;
+package materials.src.main.java.org.example.course.model11;
 
 import java.time.Instant;
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.time.ZoneId;
-import java.time.format.DateTimeFormatter;
 
 public class ProgramDateThree {
     //Date and Time to text - ISO8601

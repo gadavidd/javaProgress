@@ -1,6 +1,6 @@
-package materials.src.main.java.org.example.course.Model9.application;
+package materials.src.main.java.org.example.course.model9.application;
 
-import materials.src.main.java.org.example.course.Model9.entities.BankAccount;
+import materials.src.main.java.org.example.course.model9.entities.BankAccount;
 
 import java.util.Locale;
 import java.util.Scanner;

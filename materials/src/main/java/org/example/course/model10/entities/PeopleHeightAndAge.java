@@ -1,4 +1,4 @@
-package materials.src.main.java.org.example.course.Model10.entities;
+package materials.src.main.java.org.example.course.model10.entities;
 
 public class PeopleHeightAndAge {
     private String name;

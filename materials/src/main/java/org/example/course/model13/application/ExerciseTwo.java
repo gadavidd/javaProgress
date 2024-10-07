@@ -1,10 +1,8 @@
-package materials.src.main.java.org.example.course.Model13.application;
+package materials.src.main.java.org.example.course.model13.application;
 
-import materials.src.main.java.org.example.course.Model13.entities.exerciseTwo.Product;
-import materials.src.main.java.org.example.course.Model13.entities.Employee;
-import materials.src.main.java.org.example.course.Model13.entities.OutsourcedEmployee;
-import materials.src.main.java.org.example.course.Model13.entities.exerciseTwo.ImportProduct;
-import materials.src.main.java.org.example.course.Model13.entities.exerciseTwo.UsedProduct;
+import materials.src.main.java.org.example.course.model13.entities.exerciseTwo.Product;
+import materials.src.main.java.org.example.course.model13.entities.exerciseTwo.ImportProduct;
+import materials.src.main.java.org.example.course.model13.entities.exerciseTwo.UsedProduct;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

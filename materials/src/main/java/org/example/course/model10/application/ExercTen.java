@@ -1,6 +1,6 @@
-package materials.src.main.java.org.example.course.Model10.application;
+package materials.src.main.java.org.example.course.model10.application;
 
-import materials.src.main.java.org.example.course.Model10.entities.StudentGrades;
+import materials.src.main.java.org.example.course.model10.entities.StudentGrades;
 
 import java.util.Locale;
 import java.util.Scanner;

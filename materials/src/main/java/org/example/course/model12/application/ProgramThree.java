@@ -1,7 +1,7 @@
-package materials.src.main.java.org.example.course.Model12.application;
+package materials.src.main.java.org.example.course.model12.application;
 
-import materials.src.main.java.org.example.course.Model12.entities.projectTwo.Comment;
-import materials.src.main.java.org.example.course.Model12.entities.projectTwo.Post;
+import materials.src.main.java.org.example.course.model12.entities.projectTwo.Comment;
+import materials.src.main.java.org.example.course.model12.entities.projectTwo.Post;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

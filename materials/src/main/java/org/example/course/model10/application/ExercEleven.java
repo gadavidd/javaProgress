@@ -1,6 +1,6 @@
-package materials.src.main.java.org.example.course.Model10.application;
+package materials.src.main.java.org.example.course.model10.application;
 
-import materials.src.main.java.org.example.course.Model10.entities.PeopleHeightMeter;
+import materials.src.main.java.org.example.course.model10.entities.PeopleHeightMeter;
 
 import java.util.Locale;
 import java.util.Objects;

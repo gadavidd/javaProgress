@@ -1,4 +1,4 @@
-package materials.src.main.java.org.example.course.Model8.entities;
+package materials.src.main.java.org.example.course.model8.entities;
 
 public class Employee {
 	public String name;
